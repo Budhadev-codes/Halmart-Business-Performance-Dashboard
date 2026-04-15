@@ -1,1 +1,81 @@
-Halmart Business Performance Dashboard (FY 2024-25)Project OverviewThis interactive Power BI dashboard was developed to monitor and analyze the retail performance of Halmart for the 2024-2025 fiscal year. The project focuses on tracking sales against budgetary goals, regional performance distribution, and category-wise sales trends to support data-driven decision-making.Key Performance Indicators (KPIs)Total Sales (2025): Achieved $20.78M in total revenue.Sales Growth: Increased from $18.91M in 2024 to $20.78M in 2025.Budget Variance: Currently performing at -4.72% relative to the target goal of $21.81M.Inventory Throughput: Successfully tracked the sale of 8,615 total units.Visualizations & Insights1. Regional PerformanceThe dashboard categorizes performance across three primary regions:North: Top performing region with $7.58M in sales.South: Contributed $7.08M to total revenue.East: Generated $6.11M in sales.2. Category AnalysisSales are segmented by product category to identify high-volume drivers:Accessories: The dominant category, accounting for approximately $20M of the visual volume.Other tracked categories include Kids, Men, Electronics, and Women.3. Profit & Budget TrackingTargeting: A gauge chart monitors the progress toward a $42M long-term milestone, with current sales sitting at the $21M mark.Profitability: The dashboard includes a specialized view for the Sum of Profit alongside total sales to ensure healthy margins.City-Level Data: Reporting includes specific performance data for locations such as Chandigarh, Chennai, Hyderabad, New Delhi, and Odisha.Tech StackPower BI: Data visualization and dashboard design.Power Query: Data cleaning and transformation (ETL) of brand-level sales data.DAX (Data Analysis Expressions): Used for calculating Year-over-Year (YoY) growth and Budget Variance percentages.How to UseExecutive Summary: Use the Gauge chart to quickly assess if the business is hitting its 2025 targets.Regional Drill-down: Filter by 'Region' (North, South, East) to see localized performance trends.Product Strategy: Review the 'Sales by Category' bar chart to allocate marketing resources to high-performing sectors like Accessories.Dashboard Preview(Note: Upload your screenshot to your GitHub repository and link it here)![Halmart Dashboard Screenshot](your_image_link_here.png)
+# 📊 Halmart Business Performance Dashboard (FY 2024–25)
+
+## 🚀 Project Overview
+This interactive **Power BI dashboard** analyzes retail performance for Halmart during FY 2024–25.
+
+It focuses on:
+- Sales vs Budget tracking  
+- Regional performance comparison  
+- Category-wise sales insights  
+
+The goal is to enable **data-driven decision-making** through clear and actionable insights.
+
+---
+
+## 📌 Key Performance Indicators (KPIs)
+
+- 💰 **Total Sales (2025):** $20.78M  
+- 📈 **Sales Growth:** Increased from $18.91M (2024) → $20.78M (2025)  
+- 🎯 **Budget Variance:** -4.72% vs target ($21.81M)  
+- 📦 **Inventory Throughput:** 8,615 units sold  
+
+---
+
+## 📊 Visualizations & Insights
+
+### 🌍 Regional Performance
+- **North:** $7.58M (Top performing)  
+- **South:** $7.08M  
+- **East:** $6.11M  
+
+---
+
+### 🛍️ Category Analysis
+- **Accessories:** ~ $20M (highest contributor)  
+- Other categories:
+  - Kids  
+  - Men  
+  - Electronics  
+  - Women  
+
+---
+
+### 📉 Profit & Budget Tracking
+- Gauge chart tracks progress toward **$42M long-term goal**  
+- Current performance: ~$21M  
+- Includes **Profit vs Sales analysis**  
+- City-level insights: Chandigarh, Chennai, Hyderabad, New Delhi, Odisha  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Power BI** → Dashboard creation & visualization  
+- **Power Query** → Data cleaning & transformation (ETL)  
+- **DAX** → KPI calculations (YoY growth, Budget variance)  
+
+---
+
+## 📌 How to Use
+
+- 📍 **Executive View:** Use the gauge chart to track target achievement  
+- 🌍 **Regional Analysis:** Apply filters to compare regions  
+- 📊 **Product Strategy:** Focus on high-performing categories like Accessories  
+
+---
+
+## 🖼️ Dashboard Preview
+
+(./dashboard.png)
+
+
+---
+
+## 💡 Key Business Insights
+
+- North region drives the highest revenue  
+- Accessories dominate category sales  
+- Slight underperformance vs budget (-4.72%)  
+- Strong YoY growth indicates positive trajectory  
+
+---
