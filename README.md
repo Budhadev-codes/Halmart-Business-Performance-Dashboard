@@ -24,9 +24,10 @@ The goal is to enable **data-driven decision-making** through clear and actionab
 
 ## 📊 Dashboard Preview
 
-![Halmart Dashboard](./dashboard.png)
 
-> 📌 Based on your uploaded dashboard: :contentReference[oaicite:0]{index=0}
+<img width="1542" height="900" alt="image" src="https://github.com/user-attachments/assets/44b4b88b-b941-4783-83e6-6167df2529c1" />
+
+
 
 ---
 
