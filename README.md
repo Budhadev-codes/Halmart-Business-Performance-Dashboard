@@ -15,67 +15,80 @@ The goal is to enable **data-driven decision-making** through clear and actionab
 ## 📌 Key Performance Indicators (KPIs)
 
 - 💰 **Total Sales (2025):** $20.78M  
-- 📈 **Sales Growth:** Increased from $18.91M (2024) → $20.78M (2025)  
-- 🎯 **Budget Variance:** -4.72% vs target ($21.81M)  
-- 📦 **Inventory Throughput:** 8,615 units sold  
+- 📈 **Sales Growth:** $18.91M → $20.78M (YoY Growth)  
+- 🎯 **Budget Variance:** -4.72% (vs $21.81M target)  
+- 📦 **Units Sold:** 8,615  
+- 💵 **Total Profit:** ~$6M  
 
 ---
 
-## 📊 Visualizations & Insights
+## 📊 Dashboard Preview
+
+![Halmart Dashboard](./dashboard.png)
+
+> 📌 Based on your uploaded dashboard: :contentReference[oaicite:0]{index=0}
+
+---
+
+## 📊 Key Insights from Dashboard
 
 ### 🌍 Regional Performance
-- **North:** $7.58M (Top performing)  
+- **North:** $7.58M → Highest contributor  
 - **South:** $7.08M  
 - **East:** $6.11M  
+
+👉 North region is driving the majority of revenue growth.
 
 ---
 
 ### 🛍️ Category Analysis
-- **Accessories:** ~ $20M (highest contributor)  
-- Other categories:
-  - Kids  
-  - Men  
-  - Electronics  
-  - Women  
+- **Accessories:** ~26.6% (highest share)  
+- **Kids & Men:** ~22–23% each  
+- **Electronics & Women:** Lower contribution  
+
+👉 Accessories dominate → strong focus area for marketing.
 
 ---
 
-### 📉 Profit & Budget Tracking
-- Gauge chart tracks progress toward **$42M long-term goal**  
-- Current performance: ~$21M  
-- Includes **Profit vs Sales analysis**  
-- City-level insights: Chandigarh, Chennai, Hyderabad, New Delhi, Odisha  
+### 📉 Budget vs Sales Analysis
+- Actual Sales: **$20.78M**  
+- Target: **$21.81M**  
+- Variance: **-4.72%**
+
+👉 Slight underperformance → opportunity for optimization.
+
+---
+
+### 🏙️ Store-Level Insights
+- Performance tracked across:
+  - Chandigarh  
+  - Chennai  
+  - Hyderabad  
+  - New Delhi  
+  - Odisha  
+
+👉 Enables city-level decision-making.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Power BI** → Dashboard creation & visualization  
-- **Power Query** → Data cleaning & transformation (ETL)  
-- **DAX** → KPI calculations (YoY growth, Budget variance)  
+- **Power BI** → Dashboard & Visualization  
+- **Power Query** → Data Cleaning (ETL)  
+- **DAX** → KPI calculations (YoY, Variance)  
 
 ---
 
-## 📌 How to Use
+## 📌 Business Impact
 
-- 📍 **Executive View:** Use the gauge chart to track target achievement  
-- 🌍 **Regional Analysis:** Apply filters to compare regions  
-- 📊 **Product Strategy:** Focus on high-performing categories like Accessories  
-
----
-
-## 🖼️ Dashboard Preview
-
-(./dashboard.png)
-
+- Identified **top-performing region (North)**  
+- Highlighted **high-revenue category (Accessories)**  
+- Detected **budget gap (-4.72%)**  
+- Enabled **granular city-level analysis**  
 
 ---
 
-## 💡 Key Business Insights
+## 📬 Connect With Me
 
-- North region drives the highest revenue  
-- Accessories dominate category sales  
-- Slight underperformance vs budget (-4.72%)  
-- Strong YoY growth indicates positive trajectory  
-
----
+- 💼 LinkedIn: [Your LinkedIn Link]  
+- 🌐 Portfolio: [Your Portfolio Link]  
